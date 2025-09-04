@@ -726,6 +726,30 @@ A router object is an instance of middleware and routes. You can think of it as 
 
 ```
 
+
+Miscellaneous
+------------
+
+Topics to Cover:
+
+- Express Router
+
+- Cookies 
+
+Express Router
+--------------
+
+Express Routers are a way to organize your Express application such that our primary app.js file does not become bloated.
+
+const router = express.Router() // create new router object
+
+Cookies
+------
+
+Web Cookies
+
+HTTP cookies are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user's web browser.
+
 ## ***Cookies***
 
 * ***Web Cookies***
